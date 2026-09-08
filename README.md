@@ -1,7 +1,7 @@
 <h1 align="center">👋 Добро пожаловать, я Wake</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=7C4DFF&center=true&vCenter=true&width=435&lines=Разработчик+%2B;Создатель+Forcegram;Люблю+чистый+код+и+дизайн" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=7C4DFF&center=true&vCenter=true&width=435&lines=Разработчик+на+%2B;Создатель+Forcegram;Люблю+чистый+код+и+дизайн" alt="Typing SVG" />
 </p>
 
 ---
@@ -27,15 +27,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-### 📊 Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wake&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wake&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---

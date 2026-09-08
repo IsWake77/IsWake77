@@ -37,6 +37,7 @@
 |----------|----------|--------|
 | [**Forcegram**](https://github.com/Wake/forcegram) | Альтернативный клиент Telegram на Electron + TDLib | 🚧 В разработке |
 | [**WakeProject**](https://github.com/Wake/WakeProject) | Персональный сайт-визитка с неоновым дизайном | 🚧 В разработке |
+| [**Telegram Download Bot**](https://github.com/IsWake77/TelegramDownloadBot) | Бот для скачивания видео с YouTube, TikTok, Instagram, Rutube | 🚧 В разработке |
 
 ---
 

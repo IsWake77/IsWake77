@@ -12,7 +12,7 @@
 - 🎓 Учусь в колледже, активно изучаю программирование
 - 🔭 Сейчас работаю над **Forcegram** — альтернативным клиентом Telegram
 - 🌱 Изучаю **Electron**, **TDLib**, **Python** и архитектуру десктопных приложений
-- 📫 Связаться со мной: [Telegram](https://t.me/ваш_ник) | [Email](mailto:ваша_почта@example.com)
+- 📫 Связаться со мной: [Telegram](https://t.me/ваш_ник) | [Email](mailto:fenton1337@yandex.ru)
 
 ---
 
@@ -31,7 +31,12 @@
 
 ---
 
+### 📊 Статистика
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wake&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wake&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
 ---
 

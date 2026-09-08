@@ -8,10 +8,11 @@
 
 ### 🚀 Обо мне
 
+- 👋 Меня зовут **Денис**, мне 17 лет
+- 🎓 Учусь в колледже, активно изучаю программирование
 - 🔭 Сейчас работаю над **Forcegram** — альтернативным клиентом Telegram
-- 🌱 Изучаю **Electron**, **TDLib** и архитектуру десктопных приложений
-- 💬 Можешь спросить меня о **JavaScript**, **C++**, **UI/UX**
-- 📫 Связаться: [Telegram](https://t.me/ваш_ник) | [Email](mailto:ваша_почта@example.com)
+- 🌱 Изучаю **Electron**, **TDLib**, **Python** и архитектуру десктопных приложений
+- 📫 Связаться со мной: [Telegram](https://t.me/ваш_ник) | [Email](mailto:ваша_почта@example.com)
 
 ---
 
@@ -20,6 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -42,8 +44,8 @@
 
 | Название | Описание | Статус |
 |----------|----------|--------|
-| [**Forcegram**](https://github.com/Wake/forcegram) | Альтернативный клиент Telegram на Electron + TDLib | ⚡ В разработке |
-| [**WakeProject**](https://github.com/Wake/WakeProject) | Персональный сайт-визитка с неоновым дизайном | ✅ Готов |
+| [**Forcegram**](https://github.com/Wake/forcegram) | Альтернативный клиент Telegram на Electron + TDLib | 🚧 В разработке |
+| [**WakeProject**](https://github.com/Wake/WakeProject) | Персональный сайт-визитка с неоновым дизайном | 🚧 В разработке |
 
 ---
 

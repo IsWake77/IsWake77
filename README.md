@@ -35,9 +35,10 @@
 
 | Название | Описание | Статус |
 |----------|----------|--------|
-| [**Forcegram**](https://github.com/Wake/forcegram) | Альтернативный клиент Telegram на Electron + TDLib | 🚧 В разработке |
+| [**Restaurant Site**](https://github.com/IsWake77/restaurant-website) | Обычный вебсайт для новичков. С админ панелью и бд | 🟢	Активен |
 | [**WakeProject**](https://spring-wood-bcb2.fenton1337.workers.dev/) | Мой личный сайт портфолио | 🟢	Активен |
 | [**Telegram Download Bot**](https://github.com/IsWake77/TelegramDownloadBot) | Бот для скачивания видео с YouTube, TikTok, Instagram, Rutube | 🟢	Активен |
+| [**Wake Parser**](https://github.com/IsWake77/FreelanceParser) | Телеграм-бот, который ищет заказы на фрилайнс сайтах | 🟢	Активен |
 
 ---
 

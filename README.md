@@ -1,7 +1,7 @@
 <h1 align="center">👋 Добро пожаловать, я Wake</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=7C4DFF&center=true&vCenter=true&width=435&lines=Fullstack+Developer%2B;Создатель+WakeProject;Люблю+чистый+код+и+дизайн" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=7C4DFF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Создатель+WakeProject;Люблю+чистый+код+и+дизайн" alt="Typing SVG" />
 </p>
 
 ---
